@@ -1,0 +1,3 @@
+[submodule "csail_seg"]
+	path = csail_seg
+	url = https://github.com/CSAILVision/semantic-segmentation-pytorch.git
