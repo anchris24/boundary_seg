@@ -1,0 +1,1 @@
+{"run_name": "segnet_baseline", "split_name": "val", "pixel_accuracy": 0.0, "mean_accuracy": 0.0, "mean_iou": 0.0, "weighted_iou": 0.0, "boundary_iou": 0.0, "boundary_precision": 0.0, "boundary_recall": 0.0, "boundary_f1": 0.0, "boundary_width": 2, "checkpoint": "/Users/anchristiono/Desktop/MIT/5-Spring 2026/6.s058/Project/boundary_seg/ckpt/segnet_baseline/segnet_epoch_1.pth"}

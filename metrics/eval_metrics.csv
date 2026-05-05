@@ -1,0 +1,2 @@
+run_name,split_name,pixel_accuracy,mean_accuracy,mean_iou,weighted_iou,boundary_iou,boundary_precision,boundary_recall,boundary_f1,boundary_width,checkpoint
+segnet_baseline,val,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,/Users/anchristiono/Desktop/MIT/5-Spring 2026/6.s058/Project/boundary_seg/ckpt/segnet_baseline/segnet_epoch_1.pth
